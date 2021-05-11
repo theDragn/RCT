@@ -2,7 +2,7 @@
 	"id":"remnant_command_transfer",
 	"name":"Remnant Command Transfer",
 	"author":"theDragn",
-	"version":"1.0.0",
+	"version":"1.0.1",
 	"description":"Allows you to transfer command to remnant ships.",
 	"gameVersion":"0.95a-RC10",
 	"jars":["jars/RCT.jar"]

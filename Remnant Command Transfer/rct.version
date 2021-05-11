@@ -1,11 +1,11 @@
 {
     "masterVersionFile":"https://github.com/theDragn/RCT/raw/main/Remnant Command Transfer/rct.version",
-    "modName":"High Tech Expansion",
-    "modThreadId":19548,
+    "modName":"Remnant Command Transfer",
+    "modThreadId":20114,
     "modVersion":
     {
         "major":1,
         "minor":0,
-        "patch":"0"
+        "patch":"1"
     },
 }
